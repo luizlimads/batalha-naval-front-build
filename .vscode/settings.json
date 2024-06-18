@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/060b2f06-8b62-44c1-b37d-e7d4257a322d/resourceGroups/Liberal/providers/Microsoft.Web/sites/batalha-naval-fatecsp2024-1",
+    "appService.deploySubpath": "."
+}
